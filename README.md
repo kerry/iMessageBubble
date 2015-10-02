@@ -3,7 +3,7 @@ A sub class of UITableViewCell to create exactly the same kind of bubbles that i
 
 # Screenshots
 
-![Alt text](/screebshots/iMessageBubble\ screenshot?raw=true "iMessageBubble Demo")
+![Alt text](/screenshots/iMessageBubble\ screenshot?raw=true "iMessageBubble Demo")
 
 #Installation instructions
 
