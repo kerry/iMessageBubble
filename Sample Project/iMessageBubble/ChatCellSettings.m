@@ -226,7 +226,7 @@ static ChatCellSettings *instance = nil;
 
 -(void) setSenderBubbleFontWithSizeForMessage:(UIFont *)messageFont
 {
-    senderBubbleNameFontWithSize = messageFont;
+    senderBubbleMessageFontWithSize = messageFont;
 }
 
 -(void) setReceiverBubbleFontWithSizeForMessage:(UIFont *)messageFont

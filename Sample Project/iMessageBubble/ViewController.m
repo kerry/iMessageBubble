@@ -102,11 +102,11 @@
     [chatCellSettings setReceiverBubbleTimeTextColorHex:@"000000"];
     
     [chatCellSettings setSenderBubbleFontWithSizeForName:[UIFont boldSystemFontOfSize:11]];
-    [chatCellSettings setReceiverBubbleFontWithSizeForName:[UIFont boldSystemFontOfSize:14]];
+    [chatCellSettings setReceiverBubbleFontWithSizeForName:[UIFont boldSystemFontOfSize:11]];
     [chatCellSettings setSenderBubbleFontWithSizeForMessage:[UIFont systemFontOfSize:14]];
-    [chatCellSettings setReceiverBubbleFontWithSizeForMessage:[UIFont systemFontOfSize:17]];
+    [chatCellSettings setReceiverBubbleFontWithSizeForMessage:[UIFont systemFontOfSize:14]];
     [chatCellSettings setSenderBubbleFontWithSizeForTime:[UIFont systemFontOfSize:11]];
-    [chatCellSettings setReceiverBubbleFontWithSizeForTime:[UIFont systemFontOfSize:14]];
+    [chatCellSettings setReceiverBubbleFontWithSizeForTime:[UIFont systemFontOfSize:11]];
     
     [chatCellSettings senderBubbleTailRequired:YES];
     [chatCellSettings receiverBubbleTailRequired:YES];

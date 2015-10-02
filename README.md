@@ -1,6 +1,10 @@
 # iMessageBubble
 A sub class of UITableViewCell to create exactly the same kind of bubbles that iMessage uses in iOS 8. Very easy to use and highly customizable.
 
+# Screenshots
+
+![Alt text](/screebshots/iMessageBubble\ screenshot?raw=true "iMessageBubble Demo")
+
 #Installation instructions
 
 There are two ways to use this. One is to use the recommended way, i.e., the code and the other is to use XIB file. 
