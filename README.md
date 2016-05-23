@@ -32,5 +32,3 @@ chatCell = (ChatTableViewCellXIB *)[tableView dequeueReusableCellWithIdentifier:
 
 A sample fully working project is included.
 
-
-If you liked the project, you may donate for the efforts through <a href="https://www.paypal.com/myaccount/transfer/buy/recipient">PayPal link</a> to prateekgrover.rns@gmail.com OR through <a href="https://play.google.com/store/apps/details?id=com.paytm.paywith">PayTM Wallet</a> (for Indian users) to prateekgrover.rns@gmail.com
